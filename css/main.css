@@ -2562,11 +2562,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 16px 32px;
 }
 
-.callto-action-area {
-    background: url(../img/callaction-bg.jpg) center;
-    background-size: cover;
-}
-
 .callto-action-area .primary-btn {
     text-transform: capitalize;
     border-radius: 0;
